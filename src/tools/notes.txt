@@ -1,0 +1,45 @@
+framework: Un framework es una estructura de trabajo que ofrece reglas, herramientas y componentes para construir aplicaciones. A diferencia de una libreria, el framework suele definir la arquitectura y el flujo principal del proyecto.
+react: React es una libreria de JavaScript para construir interfaces mediante componentes reutilizables. Usa estado, props y renderizado declarativo para mantener sincronizada la UI con los datos.
+useeffect: useEffect es un hook de React para ejecutar efectos secundarios, como pedir datos a una API, suscribirse a eventos o sincronizar el componente con algo externo.
+usestate: useState es un hook de React que permite guardar y actualizar estado local dentro de un componente funcional.
+props: Las props son datos que un componente recibe desde su componente padre. Sirven para reutilizar componentes con diferentes valores.
+javascript: JavaScript es un lenguaje usado principalmente en la web para crear interactividad, consumir APIs y desarrollar aplicaciones frontend y backend con Node.js.
+async await: async y await simplifican el trabajo con promesas en JavaScript. Permiten escribir codigo asincrono con una lectura parecida a codigo secuencial.
+python: Python es un lenguaje de alto nivel, claro y multiparadigma. Se usa en backend, automatizacion, ciencia de datos, scripting, IA y educacion.
+lista python: Una lista en Python almacena elementos ordenados y modificables. Permite agregar, eliminar, recorrer y transformar datos.
+diccionario python: Un diccionario en Python guarda pares clave-valor. Es util para representar objetos, configuraciones y busquedas rapidas por clave.
+java: Java es un lenguaje orientado a objetos, tipado y multiplataforma. Se usa en backend empresarial, Android y sistemas de gran escala.
+clase: Una clase define una plantilla para crear objetos. Agrupa atributos y metodos relacionados con una entidad o concepto.
+api rest: Una API REST expone recursos mediante HTTP. Usa metodos como GET, POST, PUT y DELETE, y comunmente intercambia datos en JSON.
+fastapi: FastAPI es un framework de Python para crear APIs modernas. Usa Pydantic para validar datos y genera documentacion OpenAPI automaticamente.
+endpoint: Un endpoint es una URL de una API que recibe una solicitud y devuelve una respuesta, por ejemplo POST /api/ask.
+http: HTTP es el protocolo de comunicacion de la web. Define metodos, headers, cuerpos de solicitud, respuestas y codigos de estado.
+json: JSON es un formato ligero para intercambiar datos. Es comun entre frontend y backend por ser legible y facil de procesar.
+sql: SQL es un lenguaje para consultar y manipular bases de datos relacionales. Permite SELECT, INSERT, UPDATE, DELETE, JOIN y agrupaciones.
+join sql: JOIN permite combinar filas de dos o mas tablas usando una relacion, normalmente una clave primaria y una clave foranea.
+base de datos: Una base de datos organiza informacion para almacenarla, consultarla y actualizarla de forma confiable.
+algoritmo: Un algoritmo es una secuencia finita de pasos para resolver un problema. Debe ser claro, correcto y terminar.
+complejidad: La complejidad algoritmica estima cuantos recursos usa un algoritmo, normalmente tiempo y memoria, segun crece la entrada.
+big o: Big O describe el crecimiento aproximado de un algoritmo. Por ejemplo O(1), O(log n), O(n), O(n log n) y O(n^2).
+recursion: La recursion ocurre cuando una funcion se llama a si misma. Necesita un caso base para detenerse y un caso recursivo para avanzar.
+pila: Una pila es una estructura LIFO: el ultimo elemento en entrar es el primero en salir. Se usa en llamadas de funciones, undo y parsers.
+cola: Una cola es una estructura FIFO: el primer elemento en entrar es el primero en salir. Se usa en tareas, buffers y recorridos BFS.
+arbol: Un arbol es una estructura jerarquica con nodos conectados. Se usa en DOM, sistemas de archivos, indices y busquedas.
+grafo: Un grafo representa nodos y conexiones. Sirve para modelar redes, rutas, dependencias y relaciones complejas.
+debugging: Debugging es el proceso de encontrar y corregir errores. Implica reproducir el fallo, aislar la causa, probar hipotesis y verificar la solucion.
+traceback: Un traceback muestra la cadena de llamadas que llevo a un error. La ultima linea suele indicar el tipo de error y el mensaje principal.
+undefined: undefined en JavaScript indica que una variable no tiene valor asignado o que una propiedad no existe.
+null: null representa ausencia intencional de valor. Conviene diferenciarlo de undefined en JavaScript y de None en Python.
+html: HTML define la estructura semantica de una pagina web mediante elementos como header, main, section, article, form y button.
+css: CSS define la presentacion visual de una pagina: colores, espaciado, tipografia, layout, responsive design y estados interactivos.
+flexbox: Flexbox es un modelo de layout CSS para distribuir elementos en una dimension, fila o columna, con alineacion flexible.
+grid css: CSS Grid permite construir layouts bidimensionales con filas y columnas. Es util para interfaces complejas y responsive.
+backend: El backend contiene logica de negocio, seguridad, acceso a datos, integraciones y APIs consumidas por el frontend.
+frontend: El frontend es la parte visible de una aplicacion. Maneja interfaz, interaccion, estado local y comunicacion con APIs.
+testing: Las pruebas automatizadas verifican que el codigo funcione y reducen regresiones. Pueden ser unitarias, integracion o end-to-end.
+pytest: Pytest es una herramienta de pruebas para Python. Permite escribir casos simples, fixtures y medir cobertura con pytest-cov.
+git: Git es un sistema de control de versiones que registra cambios, permite ramas y facilita colaboracion.
+docker: Docker empaqueta una aplicacion con sus dependencias para ejecutarla de forma reproducible en distintos entornos.
+cors: CORS controla que origenes del navegador pueden consumir una API. Es una proteccion necesaria cuando frontend y backend corren en dominios distintos.
+xss: XSS es una vulnerabilidad donde se inyecta JavaScript malicioso en una pagina. Se mitiga escapando contenido, validando entradas y evitando HTML no confiable.
+sql injection: SQL injection ocurre cuando una entrada modifica una consulta SQL. Se previene con consultas parametrizadas y validacion.
